@@ -1,7 +1,7 @@
 import React from 'react';
 import classes from './Log.css'
 
-const log = props => {
+/* const log = props => {
   return (
     <div>
       <h2 className={classes.MessageLogTitle}>
@@ -18,6 +18,6 @@ const log = props => {
       </ul>
     </div >
   )
-}
+} */
 
 export default log;

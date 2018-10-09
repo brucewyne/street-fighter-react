@@ -1,7 +1,7 @@
 import React from 'react';
 import classes from './Modal.css';
 
-const modal = props => {
+/* const modal = props => {
   return (
     <div className={classes.Overlay} onClick={props.closeOverlay}>
       <div className={classes.Modal}>
@@ -14,6 +14,6 @@ const modal = props => {
       </div>
     </div>
   )
-}
+} */
 
 export default modal;
